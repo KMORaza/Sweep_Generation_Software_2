@@ -1,4 +1,4 @@
-# Sweep Generation Software
+# Software für Sweep-Generierung (Sweep Generation Software)
 
 _This software is an enhanced version of another sweep generation software which I previously wrote in JavaFX. I wrote this software in Java Swing. The [previous version](https://github.com/KMORaza/Sweep_Generation_Software) has some defects in a few features that might cause errors so I wrote the software again from scratch with improvements as well as some other advanced features._
 
