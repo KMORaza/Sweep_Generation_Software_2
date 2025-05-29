@@ -78,7 +78,6 @@ _This software is an enhanced version of another sweep generation software which
     - Entanglement-Inspired: Correlated phases for two virtual qubits, phase = (qubit1Phase + qubit2Phase) / 2.
 - **Digital to Analog Conversion** 
   - **Quantization**: y_quantized = round(y / stepSize) * stepSize, where stepSize = 2 * maxAmplitude / (2^bitDepth).
-  - **Nonlinearity**: Adds distortion to quantized signal (implementation not shown in provided files).
   - **Thermal Noise**: Adds Gaussian noise to the signal.
 - **Cross-Coupling** 
   - Simulates crosstalk as a fraction of one channel’s signal leaking into another.
